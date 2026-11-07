@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Launch_Date,Base_Price_INR
+P001,Graphic Tee,T-Shirts,2021-01-18,2499
+P002,Plain Crew Tee,T-Shirts,2021-05-11,999
+P003,V-Neck Tee,T-Shirts,2021-03-28,3499
+P004,Oversized Tee,T-Shirts,2021-01-18,1999
+P005,Polo Tee,T-Shirts,2021-02-10,499
+P006,Formal Cotton Shirt,Shirts,2021-04-16,4999
+P007,Casual Linen Shirt,Shirts,2021-05-28,2499
+P008,Checked Shirt,Shirts,2021-05-24,2499
+P009,Denim Shirt,Shirts,2021-04-13,499
+P010,Printed Shirt,Shirts,2021-06-17,999
+P011,Slim Fit Jeans,Jeans,2021-04-11,999
+P012,Straight Fit Jeans,Jeans,2021-02-06,4999
+P013,Bootcut Jeans,Jeans,2021-06-06,1999
+P014,Ripped Jeans,Jeans,2021-03-22,3499
+P015,Mom Jeans,Jeans,2021-04-20,999
+P016,Denim Jacket,Jackets,2021-04-01,699
+P017,Bomber Jacket,Jackets,2021-01-19,1599
+P018,Leather Jacket,Jackets,2021-06-27,399
+P019,Puffer Jacket,Jackets,2021-06-21,3499
+P020,Windcheater,Jackets,2021-02-25,1599
+P021,A-Line Dress,Dresses,2021-02-03,2499
+P022,Maxi Dress,Dresses,2021-05-21,899
+P023,Bodycon Dress,Dresses,2021-01-14,4999
+P024,Wrap Dress,Dresses,2021-03-31,3499
+P025,Shift Dress,Dresses,2021-05-16,2499
+P026,Cotton Kurta,Kurtas,2021-06-01,699
+P027,Printed Kurta,Kurtas,2021-03-14,1299
+P028,Embroidered Kurta,Kurtas,2021-04-10,399
+P029,Anarkali Kurta,Kurtas,2021-04-20,499
+P030,Straight Kurta,Kurtas,2021-05-29,1999
+P031,Running Sneakers,Sneakers,2021-07-04,2499
+P032,Canvas Sneakers,Sneakers,2021-03-15,4999
+P033,High-Top Sneakers,Sneakers,2021-03-24,899
+P034,Slip-On Sneakers,Sneakers,2021-07-01,999
+P035,Retro Sneakers,Sneakers,2021-01-16,1299
+P036,Tote Bag,Handbags,2021-06-09,699
+P037,Sling Bag,Handbags,2021-04-03,499
+P038,Clutch,Handbags,2021-05-18,1299
+P039,Backpack,Handbags,2021-03-08,699
+P040,Satchel,Handbags,2021-04-23,1999
+P041,Zip-Up Hoodie,Hoodies,2021-07-08,999
+P042,Pullover Hoodie,Hoodies,2021-02-02,3499
+P043,Oversized Hoodie,Hoodies,2021-05-06,1999
+P044,Fleece Hoodie,Hoodies,2021-01-20,899
+P045,Cropped Hoodie,Hoodies,2021-06-03,3499
+P046,Silk Saree,Sarees,2021-03-29,2499
+P047,Cotton Saree,Sarees,2021-06-18,999
+P048,Printed Saree,Sarees,2021-06-29,899
+P049,Georgette Saree,Sarees,2021-02-17,1999
+P050,Banarasi Saree,Sarees,2021-05-08,499

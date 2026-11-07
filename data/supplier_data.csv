@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Supplier_Name,Unit_Cost_INR,Lead_Time_Days,Reliability_Score,Min_Order_Qty,Payment_Terms_Days
+P001,Graphic Tee,Ahmedabad Mills,1238.34,13,86,200,30
+P002,Plain Crew Tee,Mumbai Fabrics,407.0,13,91,50,45
+P003,V-Neck Tee,Kolkata Handloom,1274.74,12,92,100,30
+P004,Oversized Tee,Coimbatore Weaves,1054.0,13,86,200,30
+P005,Polo Tee,Surat Textiles,243.55,5,72,100,30
+P006,Formal Cotton Shirt,Bengaluru Textiles,2308.68,28,96,100,45
+P007,Casual Linen Shirt,Surat Textiles,1285.37,19,98,150,60
+P008,Checked Shirt,Ahmedabad Mills,1077.89,11,74,200,15
+P009,Denim Shirt,Surat Textiles,222.19,12,83,200,45
+P010,Printed Shirt,Noida Apparel Hub,392.61,26,79,200,60
+P011,Slim Fit Jeans,Mumbai Fabrics,399.68,17,80,150,15
+P012,Straight Fit Jeans,Tirupur Knits,2367.08,21,85,50,60
+P013,Bootcut Jeans,Noida Apparel Hub,913.62,17,69,200,45
+P014,Ripped Jeans,Coimbatore Weaves,1664.68,11,77,50,60
+P015,Mom Jeans,Tirupur Knits,490.68,20,78,50,15
+P016,Denim Jacket,Tirupur Knits,327.13,15,73,150,15
+P017,Bomber Jacket,Surat Textiles,583.11,26,79,100,15
+P018,Leather Jacket,Ahmedabad Mills,214.14,19,69,200,30
+P019,Puffer Jacket,Tirupur Knits,1760.15,13,67,100,45
+P020,Windcheater,Ahmedabad Mills,561.84,7,84,150,45
+P021,A-Line Dress,Bengaluru Textiles,901.87,22,93,200,30
+P022,Maxi Dress,Tirupur Knits,357.03,10,76,200,60
+P023,Bodycon Dress,Mumbai Fabrics,1755.99,12,89,150,60
+P024,Wrap Dress,Surat Textiles,1826.75,12,80,50,30
+P025,Shift Dress,Bhagalpur Silk Co.,962.54,5,71,100,15
+P026,Cotton Kurta,Delhi Denims,351.18,12,84,50,15
+P027,Printed Kurta,Delhi Denims,542.4,17,91,150,45
+P028,Embroidered Kurta,Delhi Denims,146.87,11,71,100,60
+P029,Anarkali Kurta,Delhi Denims,221.64,6,66,200,15
+P030,Straight Kurta,Ludhiana Knitwear,1013.31,23,64,50,30
+P031,Running Sneakers,Kolkata Handloom,943.2,28,69,150,45
+P032,Canvas Sneakers,Delhi Denims,1830.31,24,89,150,30
+P033,High-Top Sneakers,Tirupur Knits,369.5,13,84,100,30
+P034,Slip-On Sneakers,Delhi Denims,370.85,14,65,100,30
+P035,Retro Sneakers,Noida Apparel Hub,533.3,12,86,200,45
+P036,Tote Bag,Tirupur Knits,286.98,7,71,150,30
+P037,Sling Bag,Kolkata Handloom,211.02,5,79,150,60
+P038,Clutch,Ahmedabad Mills,536.39,28,76,50,45
+P039,Backpack,Noida Apparel Hub,285.43,23,66,50,60
+P040,Satchel,Mumbai Fabrics,891.3,6,85,200,45
+P041,Zip-Up Hoodie,Noida Apparel Hub,521.13,26,90,100,60
+P042,Pullover Hoodie,Ahmedabad Mills,1780.63,24,69,200,15
+P043,Oversized Hoodie,Ludhiana Knitwear,705.27,11,68,50,15
+P044,Fleece Hoodie,Delhi Denims,464.11,13,88,50,60
+P045,Cropped Hoodie,Mumbai Fabrics,1233.68,10,69,100,15
+P046,Silk Saree,Surat Textiles,1178.74,21,86,50,45
+P047,Cotton Saree,Bhagalpur Silk Co.,401.94,21,89,150,30
+P048,Printed Saree,Ahmedabad Mills,389.12,20,79,100,30
+P049,Georgette Saree,Bhagalpur Silk Co.,714.65,18,66,150,45
+P050,Banarasi Saree,Coimbatore Weaves,205.97,23,96,200,60
